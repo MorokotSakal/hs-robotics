@@ -13,10 +13,10 @@ This repo contains educational activities and resources for teaching Robotics in
 
 ## Exhibitions
 1. Annual Cambodia STEM Festival
-* Date: December 2nd to 3rd 2022
+* Date: December 2 to December 3, 2022
 
 ## Trainings
 1. Intro to Codings
 2. Intro to 3D Design
 3. Intro to Circuit Design
-4. Intro to Project Management, Teamwork and Communication
+4. Intro to Project Management, Teamwork, and Communication
