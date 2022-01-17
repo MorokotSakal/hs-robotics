@@ -16,7 +16,7 @@ This repo contains educational activities and resources for teaching Robotics in
 * Date: December 2 to December 3, 2022
 
 ## Trainings
-1. Intro to Codings
+1. Intro to Coding
 2. Intro to 3D Design
 3. Intro to Circuit Design
 4. Intro to Project Management, Teamwork, and Communication
