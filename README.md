@@ -20,8 +20,8 @@ This repo contains educational activities and resources for teaching Robotics in
 
 2. Intro to 3D Design
 
-2.1. Measurement Tools
-* How to Use Calipers [HERE](https://www.instructables.com/How-to-Use-Calipers/)
+* Measurement Tools
+ * How to Use Calipers [HERE](https://www.instructables.com/How-to-Use-Calipers/)
 
 * Metal Working
   * Fasteners Tutorial [HERE](https://www.instructables.com/Fasteners-Tutorial/)
