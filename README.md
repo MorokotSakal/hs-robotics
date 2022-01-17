@@ -17,11 +17,15 @@ This repo contains educational activities and resources for teaching Robotics in
 
 ## Trainings
 1. Intro to Coding
+* VEXcode VR
+  * Computer Science Level 1 - Blocks (Age: 7 - 17+) [HERE](https://education.vex.com/stemlabs/cs/computer-science-level-1-blocks)
+  * Computer Science Level 1 - Python (Age: 10 - 17+) [HERE](https://education.vex.com/stemlabs/cs/computer-science-level-1-python)
 
 2. Intro to 3D Design
+* TinkerCad 3D [HERE]()
 
 * Measurement Tools
- * How to Use Calipers [HERE](https://www.instructables.com/How-to-Use-Calipers/)
+  * How to Use Calipers [HERE](https://www.instructables.com/How-to-Use-Calipers/)
 
 * Metal Working
   * Fasteners Tutorial [HERE](https://www.instructables.com/Fasteners-Tutorial/)
@@ -29,23 +33,22 @@ This repo contains educational activities and resources for teaching Robotics in
   * Drilling Metal [HERE](https://www.instructables.com/Drilling-Metal/)
 
 3. Intro to Circuit Design
-3.1. Components
-* Basic Electronics Skills for Robotics [HERE](https://www.instructables.com/Basic-Electronics-Skills-for-Robotics/)
-* Diodes [HERE](https://www.instructables.com/Diodes/)
-* Resistors [HERE](https://www.instructables.com/Resistors/)
-* Switches [HERE](https://www.instructables.com/Switches/)
-* Capacitors [HERE](https://www.instructables.com/Capacitors-2/)
+* Components
+  * Basic Electronics Skills for Robotics [HERE](https://www.instructables.com/Basic-Electronics-Skills-for-Robotics/)
+  * Diodes [HERE](https://www.instructables.com/Diodes/)
+  * Resistors [HERE](https://www.instructables.com/Resistors/)
+  * Switches [HERE](https://www.instructables.com/Switches/)
+  * Capacitors [HERE](https://www.instructables.com/Capacitors-2/)
 
-3.2. Elements of Robotics
-* Motor and Motions [HERE](https://www.instructables.com/Motors-and-Motion/)
-* Sensors [HERE](https://www.instructables.com/Sensors-2/)
-* Robot's Brain [HERE](https://www.instructables.com/Robot-Brains/)
+* Elements of Robotics
+  * Motor and Motions [HERE](https://www.instructables.com/Motors-and-Motion/)
+  * Sensors [HERE](https://www.instructables.com/Sensors-2/)
+  * Robot's Brain [HERE](https://www.instructables.com/Robot-Brains/)
 
-3.3. Circuit Making
-* Intro to Soldering [HERE](https://www.instructables.com/Intro-to-Soldering/)
+* Circuit Making
+  * Intro to Soldering [HERE](https://www.instructables.com/Intro-to-Soldering/)
 
 4. Intro to Project Management, Teamwork, and Communication
-
 
 
 ## Projects for Beginner
