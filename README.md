@@ -21,24 +21,24 @@ This repo contains educational activities and resources for teaching Robotics in
 2. Intro to 3D Design
 
 Measurement Tools
-* How to Use Calipers (HERE)[https://www.instructables.com/How-to-Use-Calipers/]
+* How to Use Calipers [HERE](https://www.instructables.com/How-to-Use-Calipers/)
 
 Metal Working
-* Fasteners Tutorial (HERE)[https://www.instructables.com/Fasteners-Tutorial/]
-* Cutting Metal (HERE)[https://www.instructables.com/Cutting-Metal/]
-* Drilling Metal (HERE)[https://www.instructables.com/Drilling-Metal/]
+* Fasteners Tutorial [HERE](https://www.instructables.com/Fasteners-Tutorial/)
+* Cutting Metal [HERE](https://www.instructables.com/Cutting-Metal/)
+* Drilling Metal [HERE](https://www.instructables.com/Drilling-Metal/)
 
 3. Intro to Circuit Design
-* Basic Electronics Skills for Robotics (HERE)[https://www.instructables.com/Basic-Electronics-Skills-for-Robotics/]
-* Diodes (HERE)[https://www.instructables.com/Diodes/]
-* Resistors (HERE)[https://www.instructables.com/Resistors/]
-* Switches (HERE)[https://www.instructables.com/Switches/]
-* Capacitors (HERE)[https://www.instructables.com/Capacitors-2/]
-* Intro to Soldering (HERE)[https://www.instructables.com/Intro-to-Soldering/]
+* Basic Electronics Skills for Robotics [HERE](https://www.instructables.com/Basic-Electronics-Skills-for-Robotics/)
+* Diodes [HERE](https://www.instructables.com/Diodes/)
+* Resistors [HERE](https://www.instructables.com/Resistors/)
+* Switches [HERE](https://www.instructables.com/Switches/)
+* Capacitors [HERE](https://www.instructables.com/Capacitors-2/)
+* Intro to Soldering [HERE](https://www.instructables.com/Intro-to-Soldering/)
 
 5. Intro to Project Management, Teamwork, and Communication
 
 
 
 ## Projects for Beginner
-* Useless Machine (HERE)[https://www.instructables.com/Useless-Machine-Instructions/]
+* Useless Machine [HERE](https://www.instructables.com/Useless-Machine-Instructions/)
