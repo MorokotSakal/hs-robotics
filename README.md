@@ -23,10 +23,10 @@ This repo contains educational activities and resources for teaching Robotics in
 2.1. Measurement Tools
 * How to Use Calipers [HERE](https://www.instructables.com/How-to-Use-Calipers/)
 
-2.2. Metal Working
-* Fasteners Tutorial [HERE](https://www.instructables.com/Fasteners-Tutorial/)
-* Cutting Metal [HERE](https://www.instructables.com/Cutting-Metal/)
-* Drilling Metal [HERE](https://www.instructables.com/Drilling-Metal/)
+* Metal Working
+  * Fasteners Tutorial [HERE](https://www.instructables.com/Fasteners-Tutorial/)
+  * Cutting Metal [HERE](https://www.instructables.com/Cutting-Metal/)
+  * Drilling Metal [HERE](https://www.instructables.com/Drilling-Metal/)
 
 3. Intro to Circuit Design
 3.1. Components
