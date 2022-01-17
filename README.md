@@ -39,6 +39,7 @@ This repo contains educational activities and resources for teaching Robotics in
   * Resistors [HERE](https://www.instructables.com/Resistors/)
   * Switches [HERE](https://www.instructables.com/Switches/)
   * Capacitors [HERE](https://www.instructables.com/Capacitors-2/)
+  * Intro to Arduino [HERE](https://www.instructables.com/Intro-to-Arduino/)
 
 * Elements of Robotics
   * Motor and Motions [HERE](https://www.instructables.com/Motors-and-Motion/)
