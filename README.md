@@ -2,7 +2,8 @@
 This repo contains educational activities and resources for teaching Robotics in highschool
 
 
-## Competitions 
+## Competitions and Events
+### Competitions
 1. Moon Camp Challenge [Link](https://mooncampchallenge.org/#1631704003944-28a0dede-789d)
 * Date: September 15, 2021 to April 21, 2022
 * Age: Up to 19 years old
@@ -11,7 +12,7 @@ This repo contains educational activities and resources for teaching Robotics in
 * Date: TBD
 * Age: Up to 19 years old
 
-## Exhibitions
+### Exhibitions
 1. Annual Cambodia STEM Festival
 * Date: December 2 to December 3, 2022
 
@@ -22,7 +23,13 @@ This repo contains educational activities and resources for teaching Robotics in
   * Computer Science Level 1 - Python (Age: 10 - 17+) [HERE](https://education.vex.com/stemlabs/cs/computer-science-level-1-python)
 
 2. Intro to 3D Design
-* TinkerCad 3D [HERE]()
+* TinkerCad 3D [HERE](https://www.tinkercad.com/learn/designs)
+  * Starts (All required)
+  * Lessons
+    * Gadgets (Choose 3)
+    * Jewelry (Choose 3)
+    * Buttons (Choose 3)
+  * Independent Design
 
 * Measurement Tools
   * How to Use Calipers [HERE](https://www.instructables.com/How-to-Use-Calipers/)
