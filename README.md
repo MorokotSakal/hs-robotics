@@ -41,6 +41,8 @@ This repo contains educational activities and resources for teaching Robotics in
 
 3. Intro to Circuit Design
 * Components
+  * Electricity [HERE](https://www.instructables.com/Electricity-2/)
+  * Electronics Crash Course [HERE](https://www.instructables.com/Electronics-Crash-Course/)
   * Basic Electronics Skills for Robotics [HERE](https://www.instructables.com/Basic-Electronics-Skills-for-Robotics/)
   * Diodes [HERE](https://www.instructables.com/Diodes/)
   * Resistors [HERE](https://www.instructables.com/Resistors/)
