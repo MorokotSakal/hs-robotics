@@ -1,7 +1,6 @@
 # High School Robotics
 This repo contains educational activities and resources for teaching Robotics in highschool
 
-
 ## Competitions and Events
 ### Competitions
 1. Moon Camp Challenge [Link](https://mooncampchallenge.org/#1631704003944-28a0dede-789d)
@@ -22,13 +21,14 @@ This repo contains educational activities and resources for teaching Robotics in
   * Computer Science Level 1 - Blocks (Age: 7 - 17+) [HERE](https://education.vex.com/stemlabs/cs/computer-science-level-1-blocks)
   * Computer Science Level 1 - Python (Age: 10 - 17+) [HERE](https://education.vex.com/stemlabs/cs/computer-science-level-1-python)
 
-2. Intro to 3D Design
+2. Intro to 3D Modeling
 * TinkerCad 3D [HERE](https://www.tinkercad.com/learn/designs)
-  * Starts (All required)
+  * Starters (All required)
   * Lessons
     * Gadgets (Choose 3)
     * Jewelry (Choose 3)
     * Buttons (Choose 3)
+  * Projects (Optional)
   * Independent Design
 
 * Measurement Tools
@@ -39,7 +39,7 @@ This repo contains educational activities and resources for teaching Robotics in
   * Cutting Metal [HERE](https://www.instructables.com/Cutting-Metal/)
   * Drilling Metal [HERE](https://www.instructables.com/Drilling-Metal/)
 
-3. Intro to Circuit Design
+3. Intro to Circuit/Arduino
 * Components
   * Electricity [HERE](https://www.instructables.com/Electricity-2/)
   * Electronics Crash Course [HERE](https://www.instructables.com/Electronics-Crash-Course/)
