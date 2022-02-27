@@ -58,7 +58,8 @@ This repo contains educational activities and resources for teaching Robotics in
 * Circuit Making
   * Intro to Soldering [HERE](https://www.instructables.com/Intro-to-Soldering/)
 
-4. Intro to Project Management, Teamwork, and Communication
+4. Final Projects
+* Project Management, Teamwork, and Communication
 
 
 ## Projects for Beginner
